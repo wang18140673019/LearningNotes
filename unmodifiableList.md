@@ -115,17 +115,7 @@ public class Student
 
 ```
 
-<font face="黑体">我是黑体字</font>
-<font face="微软雅黑">我是微软雅黑</font>
-<font face="STCAIYUN">我是华文彩云</font>
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
-<font color=#00ffff size=72>color=#00ffff</font>
-<font color=red size=72>color=red</font>
-
-
-
 ##总结
-<font face="微软雅黑">我是微软雅黑</font>
 
 <font color="red" face="微软雅黑"></font>使用这种方法重构的意义：就好比我们网上购物一样，你可以往购物车添加自己想买的东西，但是商户不能在不通知顾客（我们）的情况下，就任意的添加商品，并修改商品的价格等，入口只能是一个，也就是在顾客手中。比喻可能不是很恰当，反正意思大概就是这样。</font>
 
