@@ -1,4 +1,5 @@
 ###插件(plugins)拦截器
+参考博客：http://blog.csdn.net/ashan_li/article/details/50396026
 mybatis拦截器使用JDK动态代理来实现
 >一个拦截器就相当于把要拦截的方法复写一遍,下一个拦截器嵌套着上个拦截器，是由jdk动态代理实现的
 
